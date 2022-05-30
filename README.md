@@ -1,4 +1,4 @@
-# intro_logit
+# Intro_logit
 Matériel support formation du 26-04-2022
 
 ## MAJ 30-05-2022
