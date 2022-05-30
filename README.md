@@ -1,7 +1,9 @@
 # intro_logit
 Matériel support formation du 26-04-2022
 
-
+# MAJ 30-05-2022
+* Ajout programmation SAS
+* Annexe: paradoxe de Simpson avec l'exemple des taux d'admission à Berkeley 
 
 ## Ouverture des bases 
 
